@@ -1,0 +1,6 @@
+{
+  "name": "membuku",
+  "description": "Platform direktori komunitas buku, event literasi, profil pembaca, dan forum diskusi di Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

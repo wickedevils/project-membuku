@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: 'Plus Jakarta Sans', system-ui, sans-serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, sans-serif;
+  --color-parchment: #FDFCF8;
+  --color-parchment-subtle: #F9F7F2;
+  --color-parchment-card: #F5F5F0;
+  --color-espresso: #2D241E;
+  --color-olive: #5A5A40;
+  --color-olive-dark: #484833;
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+  background-color: #FDFCF8;
+  color: #2D241E;
+}
+
